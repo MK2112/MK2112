@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+Building  <img style="float: right; padding-top: 5px" src="https://user-images.githubusercontent.com/29037335/132966621-8cabf683-896a-42ca-a45e-f19a5c7bd1ea.gif">  systems, watching the loss. 🤖 
 <!--
 **MK2112/MK2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
