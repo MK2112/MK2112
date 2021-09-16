@@ -28,7 +28,4 @@ Constantly exploring new tech stacks, I try leveraging them for new cool project
 <br>
 <br> 
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=MK2112&show_icons=true&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MK2112&hide=TeX&layout=compact&theme=dark&hide_border=true" width = 400>
-</p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MK2112&hide=TeX&layout=compact&theme=dark&hide_border=true" width = 400>
