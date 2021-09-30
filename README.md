@@ -22,8 +22,8 @@ Constantly exploring new tech stacks, I try leveraging them for new cool project
   <a href="https://www.python.org" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/29037335/133000920-86f376eb-59be-4c0e-9ced-5c68167b807f.png" alt="Python" height ="35px"></a>
   <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/29037335/133000835-126d848c-cc10-4ed0-a9a8-9718edc61add.png" alt="tensorflow" height="35px"/> </a> 
   <a href="https://keras.io" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/29037335/133000726-4b1c6973-cafe-46ca-884e-640c70989dc0.png" alt="keras" height="35px"/> </a> 
-  <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/29037335/133000637-a21e5205-a9e2-48d5-b863-7958329af125.png" alt="pytorch" height="35px"/> </a> 
-  
+  <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/29037335/133000637-a21e5205-a9e2-48d5-b863-7958329af125.png" alt="pytorch" height="35px"/> </a>
+  <a href="http://www.cplusplus.org" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/29037335/135504500-dc457ce3-e867-465a-aea5-8832e9f48ee4.png" alt="c++" height="35px"/> </a>
 <br>
 <br>
 <br> 
