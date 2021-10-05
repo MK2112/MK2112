@@ -8,9 +8,9 @@ Constantly exploring new tech stacks, I try leveraging them for new cool project
 <br/>
 <br/>
 
-- 🔭 &nbsp; I’m currently working on **grasper**; 
+- 🔭 &nbsp; I’m currently working on **grasper**
 - 🌱 &nbsp; I’m learning **PyTorch** and **C++**
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
 <br>
 
