@@ -3,13 +3,13 @@
 <a href='https://stackoverflow.com/users/11304860/mk2112'><img alt="stackoverflow" src="https://user-images.githubusercontent.com/29037335/132999076-ab4a3563-2a72-40b2-b024-8a1f2f184252.png" height='18px'/></a>
 <a href='https://www.kaggle.com/mk2112/'><img alt="kaggle" src="https://user-images.githubusercontent.com/29037335/132999072-f5094270-4304-4c64-9bed-038649573522.png" height='18px'/></a>
 
-I am an AI/ML Systems Developer, but I also do Full Stack Web Developement 🌐 and App Developement 📱.<br>
-Constantly exploring new tech stacks, I try leveraging them for new cool projects 🛠️.
+AI/ML Systems Developer, but I also do Full Stack Web Developement 🌐 and App Developement 📱.<br>
+Constantly exploring new tech stacks, trying to leverage them for cool new projects 🛠️.
 <br/>
 <br/>
 
-- 🔭 &nbsp; I’m currently working on **grasper**
-- 🌱 &nbsp; I’m learning **PyTorch** and **C++**
+- 🔭 &nbsp; Currently working on **grasper**
+- 🌱 &nbsp; Learning **PyTorch** and **C++**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
 <br>
