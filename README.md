@@ -9,7 +9,7 @@ Constantly exploring new tech stacks, trying to leverage them for cool new proje
 <br/>
 
 - 🔭 &nbsp; Currently working on **grasper**
-- 🌱 &nbsp; Learning **PyTorch** and **C++**
+- 🌱 &nbsp; Learning **C++** and **Julia**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
 <br>
