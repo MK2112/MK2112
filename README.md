@@ -5,6 +5,9 @@
 
 - 🔭 &nbsp; Currently working on **grasper**
 - 🌱 &nbsp; Improving on **C++** and **Julia**
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help!
+- 💬 &nbsp; I am happy to help!
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MK2112&hide=TeX&layout=compact&theme=dark&hide_border=true" width = 400>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MK2112&hide_border=true&count_private=true&show_icons=true&theme=dark" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MK2112&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" align = "center"/>
+</p>
