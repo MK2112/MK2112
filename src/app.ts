@@ -34,19 +34,18 @@ async function generateMarkdown() {
 
   ---\n
 
-<h2>Hey there 👋</h2>\n
-<p align="center">\n
-  🔭 &nbsp; Currently working on <b>autonomous systems</b>\n
-  🌱 &nbsp; Improving on <b>JAX</b> and <b>Julia</b>\n
-  💬 &nbsp; Happy to help!\n
-</p>\n
+  <h2>Hey there 👋</h2>\n
+  <p align="center">
+    I'm Marcus. My focus lies in advancing AI research and development.<br/><br/>
+    🔭 &nbsp; Currently working on <b>autonomous systems</b><br/>
+    🌱 &nbsp; Improving on <b>JAX</b> and <b>PyTorch</b><br/>
+    💬 &nbsp; Happy to help!
+  </p>\n
 
   ---\n
 
-  ${githubStatsCardDark}\n
-  ${githubStatsCardLight}\n
-  ${githubLangCardDark}\n
-  ${githubLangCardLight}\n
+  ${githubStatsCardDark} ${githubLangCardDark}\n
+  ${githubStatsCardLight} ${githubLangCardLight}\n
 
   </div>`;
 
