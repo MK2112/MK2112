@@ -1,5 +1,5 @@
 <div align="center">
-<p><a href="https://bsky.app/profile/mk2112.bsky.social"><img src="https://img.shields.io/badge/-@mk2112.bsky.social-555555?style=for-the-badge&amp;logo=bsky&amp;logoColor=white" alt="BSky-Badge"></a> <a href="https://stackoverflow.com/users/11304860/mk2112"><img src="https://img.shields.io/badge/-MK2112-555555?style=for-the-badge&amp;logo=Stackoverflow&amp;logoColor=white" alt="Stackoverflow-Badge"></a> <img src="https://komarev.com/ghpvc/?username=MK2112&amp;style=for-the-badge" alt="Profile-Views-Count-Badge"></p>
+<p><a href="https://twitter.com/marcus_or_so"><img src="https://img.shields.io/badge/-@marcus_or_so-555555?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter-Badge"></a> <a href="https://stackoverflow.com/users/11304860/mk2112"><img src="https://img.shields.io/badge/-MK2112-555555?style=for-the-badge&amp;logo=Stackoverflow&amp;logoColor=white" alt="Stackoverflow-Badge"></a> <img src="https://komarev.com/ghpvc/?username=MK2112&amp;style=for-the-badge" alt="Profile-Views-Count-Badge"></p>
 <hr>
   <h2>Hey there 👋</h2>
   <p align="center">
