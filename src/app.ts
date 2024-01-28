@@ -16,9 +16,11 @@ const ossProjectRepos = [
 const githubUsername = "MK2112";
 const twitterUrl = "https://twitter.com/marcus_or_so";
 const stackoverflowUrl = "https://stackoverflow.com/users/11304860/mk2112";
+const huggingfaceUrl = "https://huggingface.co/Marcus2112";
 
 async function generateMarkdown() {
   const stackoverflowBadge = `[![Stackoverflow-Badge](https://img.shields.io/badge/-MK2112-555555?style=for-the-badge&logo=Stackoverflow&logoColor=white)](${stackoverflowUrl})`;
+  const huggingfaceBadge = `[![Huggingface-Badge](https://img.shields.io/badge/-Marcus2112-555555?style=for-the-badge&logo=Huggingface&logoColor=white)](${huggingfaceUrl})`;
   const twitterBadge = `[![Twitter-Badge](https://img.shields.io/badge/-@marcus_or_so-555555?style=for-the-badge&logo=x&logoColor=white)](${twitterUrl})`;
   const profileCountBadge = `![Profile-Views-Count-Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=for-the-badge)`;
 
@@ -30,7 +32,7 @@ async function generateMarkdown() {
 
   const markdownText = `<div align="center">\n
 
-  ${twitterBadge} ${stackoverflowBadge} ${profileCountBadge}\n
+  ${huggingfaceBadge} ${stackoverflowBadge} ${twitterBadge} ${profileCountBadge}\n
 
   ---\n
 
