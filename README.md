@@ -1,5 +1,5 @@
 <div align="center">
-<p><a href="https://huggingface.co/Marcus2112"><img src="https://img.shields.io/badge/-Marcus2112-555555?style=for-the-badge&amp;logo=Huggingface&amp;logoColor=white" alt="Huggingface-Badge"></a> <a href="https://stackoverflow.com/users/11304860/mk2112"><img src="https://img.shields.io/badge/-MK2112-555555?style=for-the-badge&amp;logo=Stackoverflow&amp;logoColor=white" alt="Stackoverflow-Badge"></a> <a href="https://twitter.com/marcus_or_so"><img src="https://img.shields.io/badge/-@marcus_or_so-555555?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter-Badge"></a> <img src="https://komarev.com/ghpvc/?username=MK2112&amp;style=for-the-badge" alt="Profile-Views-Count-Badge"></p>
+<p><a href="https://huggingface.co/Marcus2112"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Marcus2112-grey" alt="Huggingface-Badge"></a> <a href="https://stackoverflow.com/users/11304860/mk2112"><img src="https://img.shields.io/badge/-MK2112-grey?logo=stackoverflow&amp;logoColor=white" alt="Stackoverflow-Badge"></a> <a href="https://twitter.com/marcus_or_so"><img src="https://img.shields.io/badge/-Marcus%5For_so-grey?logo=x" alt="Twitter-Badge"></a> <img src="https://komarev.com/ghpvc/?username=MK2112&amp;color=grey" alt="Profile-Views-Count-Badge"></p>
 <hr>
   <h2>Hey there 👋</h2>
   <p align="center">
