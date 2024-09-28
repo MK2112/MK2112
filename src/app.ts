@@ -52,18 +52,15 @@ function generateGitHubLangCard(mode: 'light' | 'dark'): string {
 
 function generateMarkdown(): string {
   const { githubUsername, socialLinks, focus, currentWork, learning } = profileConfig;
-
-  const badges = [
-    generateBadge('HuggingFace', socialLinks.huggingface, 'huggingface'),
-    generateBadge('Stack Overflow', socialLinks.stackoverflow, 'stackoverflow'),
-    generateBadge('Twitter', socialLinks.twitter, 'twitter'),
-    `![Profile Views](https://komarev.com/ghpvc/?username=${githubUsername}&color=grey&style=flat-square)`,
-  ].join(' ');
-
+  const stackoverflowBadge = `[![Stackoverflow-Badge](https://img.shields.io/badge/-MK2112-grey?logo=stackoverflow&logoColor=white)](${socialLinks.stackoverflow})`;
+  const huggingfaceBadge = `[![Huggingface-Badge](https://img.shields.io/badge/%F0%9F%A4%97-Marcus2112-grey)](${socialLinks.huggingface})`;
+  const twitterBadge = `[![Twitter-Badge](https://img.shields.io/badge/-Marcus%5For_so-grey?logo=x)](${socialLinks.twitter})`;
+  const profileCountBadge = `![Profile-Views-Count-Badge](https://komarev.com/ghpvc/?username=${githubUsername}&color=grey)`;
+  
   return md.render(`
 <div align="center">
 
-${badges}
+${huggingfaceBadge} ${stackoverflowBadge} ${twitterBadge} ${profileCountBadge}
 
 ---
 
@@ -71,9 +68,9 @@ ${badges}
 
 I'm Marcus. Specializing in ${focus}.
 
-- 🔭 Currently working on **${currentWork}**
-- 🌱 Improving on **${learning}**
-- 💬 Happy to help!
+🔭 Currently working on **${currentWork}**<br>
+🌱 Improving on **${learning}**<br>
+💬 Happy to help!
 
 ---
 
