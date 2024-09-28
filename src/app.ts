@@ -1,7 +1,9 @@
-import * as fs from 'fs';
-import MarkdownIt from 'markdown-it';
-
-const md = new MarkdownIt({ html: true, breaks: true, linkify: true });
+import * as fs from "fs";
+const md = require("markdown-it")({
+  html: true,
+  breaks: true,
+  linkify: true
+});
 
 interface ProfileConfig {
   githubUsername: string;
