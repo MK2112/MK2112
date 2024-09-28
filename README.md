@@ -3,7 +3,6 @@
 <hr>
   <h2>Hey there, I'm Marcus 👋</h2>
   <p align="center">
-    I'm specializing in efficient applied AI.<br/><br/>
     🔭 &nbsp; Currently working on <b>autonomous systems</b><br/>
     🌱 &nbsp; Improving on <b>JAX</b> and <b>PyTorch</b><br/>
     💬 &nbsp; Happy to help!
