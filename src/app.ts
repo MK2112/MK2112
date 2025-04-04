@@ -5,14 +5,16 @@ const md = require("markdown-it")({
   linkify: true
 });
 
-// import { fetchGitHubData } from "./fetchGitHubData";
-// ${await fetchGitHubData(githubUsername, ossProjectRepos)}
+/*
+ * import { fetchGitHubData } from "./fetchGitHubData";
+ * ${await fetchGitHubData(githubUsername, ossProjectRepos)}
 
-// const ossProjectRepos = [
-//  "nn-zero-to-hero-notes",
-//  "any_to_any.py",
-//  "CarND"
-// ];
+ * const ossProjectRepos = [
+ *  "nn-zero-to-hero-notes",
+ *  "any_to_any.py",
+ *  "CarND"
+ *];
+ */
 
 const githubUsername = "MK2112";
 const twitterUrl = "https://twitter.com/marcus_or_so";
@@ -40,7 +42,7 @@ async function generateMarkdown() {
   <h2>Hey there, I'm Marcus 👋</h2>\n
   <p align="center">
     🔭 &nbsp; Currently working on <b>autonomous systems</b><br/>
-    🌱 &nbsp; Improving on <b>JAX</b> and <b>PyTorch</b><br/>
+    🌱 &nbsp; Utilizing <b>Python</b>, <b>JAX</b>, <b>Rust</b> and <b>C++</b><br/>
     💬 &nbsp; Happy to help!
   </p>\n
 
