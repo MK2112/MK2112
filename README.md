@@ -4,7 +4,7 @@
   <h2>Hey there, I'm Marcus 👋</h2>
   <p align="center">
     🔭 &nbsp; Currently working on <b>autonomous systems</b><br/>
-    🌱 &nbsp; Improving on <b>JAX</b> and <b>PyTorch</b><br/>
+    🌱 &nbsp; Utilizing <b>Python</b>, <b>JAX</b>, <b>Rust</b> and <b>C++</b><br/>
     💬 &nbsp; Happy to help!
   </p>
 <hr>
