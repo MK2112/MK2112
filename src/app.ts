@@ -42,7 +42,7 @@ async function generateMarkdown() {
   <h2>Hey there, I'm Marcus 👋</h2>\n
   <p align="center">
     🔭 &nbsp; Currently working on <b>autonomous systems</b><br/>
-    🌱 &nbsp; Utilizing <b>Python</b>, <b>JAX</b>, <b>Rust</b> and <b>C++</b><br/>
+    🌱 &nbsp; Using <b>Python</b>, <b>JAX</b>, <b>Rust</b> and <b>C++</b><br/>
     💬 &nbsp; Happy to help!
   </p>\n
 
