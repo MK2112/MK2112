@@ -32,6 +32,7 @@ async function generateMarkdown() {
 
   const githubLangCardLight = `[![GitHub-Lang-Card-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=${githubUsername}&layout=compact&hide_border=true&card_width=600&hide_title=true&text_color=474A4E&icon_color=3B7EBF&hide=contribs,reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`;
   const githubLangCardDark = `[![GitHub-Lang-Card-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=${githubUsername}&layout=compact&hide_border=true&card_width=600&hide_title=true&text_color=FFF&icon_color=3B7EBF&hide=contribs,reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)`;
+  const githubCard = `![Github-Card](https://githubcard.com/MK2112.svg?d=xDUr2-pV)`;
 
   const markdownText = `<div align="center">\n
 
@@ -48,8 +49,9 @@ async function generateMarkdown() {
 
   ---\n
 
-  ${githubStatsCardDark} ${githubLangCardDark}\n
-  ${githubStatsCardLight} ${githubLangCardLight}\n
+  <!-- ${githubStatsCardDark} ${githubLangCardDark} -->\n
+  <!-- ${githubStatsCardLight} ${githubLangCardLight} -->\n
+  ${githubCard}\n
 
   </div>`;
 
