@@ -49,9 +49,9 @@ async function generateMarkdown() {
 
   ---\n
 
-  ${githubStatsCardDark} ${githubLangCardDark}\n
-  ${githubStatsCardLight} ${githubLangCardLight}\n
-  <!-- ${githubCard} -->\n
+  <!-- ${githubStatsCardDark} ${githubLangCardDark} -->\n
+  <!-- ${githubStatsCardLight} ${githubLangCardLight} -->\n
+  ${githubCard}\n
 
   </div>`;
 
